@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnKT_Lab4", "OnKT_Lab4\OnKT_Lab4.csproj", "{E02A8429-304C-4684-9ECE-5233B8A5F837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E02A8429-304C-4684-9ECE-5233B8A5F837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E02A8429-304C-4684-9ECE-5233B8A5F837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E02A8429-304C-4684-9ECE-5233B8A5F837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E02A8429-304C-4684-9ECE-5233B8A5F837}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58002B7A-CB27-4510-827A-C41E100F11A9}
+	EndGlobalSection
+EndGlobal

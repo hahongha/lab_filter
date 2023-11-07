@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Major>
+<ul class="nav">
+	@foreach (var m in Model)
+	{
+	@* 	// Load đồng bộ
+	<li class="nav-item">
+	<a asp-controller="Learner" asp-action="Index" 
+	asp-route-mid="@m.MajorID" class="nav-link">@m.MajorName</a>
+	</li> *@
+
+		//Load dữ liệu không đồng bộ sử dụng AJAX
+
+		<li class="nav-item" id="@m.MajorID">
+			<a class="nav-link";>@m.MajorName </a>
+		</li>
+	}
+</ul>
